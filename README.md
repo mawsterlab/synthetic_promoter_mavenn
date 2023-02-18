@@ -1,5 +1,5 @@
 # synthetic_promoter_mavenn
-Notebooks and data associated with Loell, et al. 2023
+Notebooks and data associated with Loell, et al. 2023, 'Transcription factor interactions explain the context-dependent activity of CRX binding sites'.
 
 This repository contains: 
 
@@ -11,3 +11,7 @@ are available here in /data_files. See below for a description of the files in t
 
 The data for the CRX-NRL library is taken from supplementary Data S3 of White, Kwasnieski, et al., Cell Reports 2016 Oct 25;17(5):1247-1254, 
 available at https://doi.org/10.1016/j.celrep.2016.09.066.
+
+These notebooks require MAVE-NN to run. For instructions, see https://mavenn.readthedocs.io and Tareen, et al., Genome Biology 2022 Apr 15;23(1):98 at https://doi.org/10.1186/s13059-022-02661-7.
+
+
