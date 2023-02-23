@@ -4,6 +4,7 @@ Notebooks and data associated with Loell, et al. 2023, 'Transcription factor int
 This repository contains: 
 
 (1) a jupyter notebook and associated files needed to load all saved models and reproduce all of the figures from the paper and 
+
 (2) a jupyter notebook with the code used to train the models described in the paper.
 
 Original fastq files for the CDNMR library massviely parallel reporter assay (MPRA) data are available at the NCBI Gene Expression Omnibus, accession number GSE225867. All processed data
